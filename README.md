@@ -39,4 +39,5 @@
 <li style="text-align: justify;">E-Learning Web Based</li>
 <li style="text-align: justify;">E-Raport Integrasi Bot Telegram </li>
 <li style="text-align: justify;">Toko Online (Laravel/Bulma/jQuery/Ajax) </li>
+<li style="text-align: justify;">Aplikasi Rental Mobil </li>
 </ul>
