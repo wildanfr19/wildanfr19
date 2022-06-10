@@ -36,4 +36,7 @@
 <ul style="list-style-type: circle;">
 <li>ERP ( Present ) ( PT Trimitra Chitrahasta )</li>
 <li style="text-align: justify;">Portal ERP (PT Inti Ganda Perdana)</li>
+<li style="text-align: justify;">E-Learning Web Based</li>
+<li style="text-align: justify;">E-Raport Integrasi Bot Telegram </li>
+<li style="text-align: justify;">Toko Online (Laravel/Bulma/jQuery/Ajax) </li>
 </ul>
