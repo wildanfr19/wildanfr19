@@ -19,6 +19,7 @@
 <li>jQuery</li>
 <li style="text-align: justify;">Ajax</li>
 <li style="text-align: justify;">JSON</li>
+<li style="text-align: justify;">React JS</li>
 </ul>
 <p>#Database</p>
 <ul style="list-style-type: circle;">
