@@ -49,5 +49,5 @@
 </ul>
  <p>#Projek Running</p>
 <ul style="list-style-type: circle;">
-<li style="text-align: justify;">HC Portal Nabati Group</li>
+<li style="text-align: justify;">Support HC Portal Nabati Group</li>
 </ul>
