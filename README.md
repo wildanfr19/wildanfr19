@@ -46,4 +46,8 @@
 <li style="text-align: justify;">Toko Online (Laravel/Bulma/jQuery/Ajax) </li>
 <li style="text-align: justify;">Aplikasi Rental Mobil </li>
 <li style="text-align: justify;">Aplikasi Travel Umroh  </li>
+
+ <p>#Projek Running</p>
+<ul style="list-style-type: circle;">
+<li style="text-align: justify;">HC Portal Nabati Group</li>
 </ul>
