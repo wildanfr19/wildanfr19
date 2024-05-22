@@ -13,6 +13,7 @@
 <li style="text-align: justify;">Bootstrap</li>
 <li style="text-align: justify;">Bulma</li>
 <li style="text-align: justify;">Materialize&nbsp;</li>
+ <li style="text-align: justify;">Angular Material&nbsp;</li>
 </ul>
 <p>#Javascript</p>
 <ul style="list-style-type: circle;">
@@ -20,6 +21,9 @@
 <li style="text-align: justify;">Ajax</li>
 <li style="text-align: justify;">JSON</li>
 <li style="text-align: justify;">React JS</li>
+<li style="text-align: justify;">Angular JS</li>
+<li style="text-align: justify;">Angular</li>
+<li style="text-align: justify;">Node JS</li>
 </ul>
 <p>#Database</p>
 <ul style="list-style-type: circle;">
