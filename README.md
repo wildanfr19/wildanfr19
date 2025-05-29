@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Wildan Fathur Rohman]</h1>
+<h1 align="left">Hi 👋, I'm [Wildan Fathur Rohman]</h1>
 <h3 align="left">A passionate [Frontend / Backend / Fullstack] Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **[PT INDONESIA THAI SUMMIT AUTO]**
