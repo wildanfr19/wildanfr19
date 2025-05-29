@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm [Wildan Fathur Rohman]</h1>
-<h3 align="center">A passionate [Frontend / Backend / Fullstack] Developer from Indonesia</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="wildanfr19" />
-</p>
+<h3 align="left">A passionate [Frontend / Backend / Fullstack] Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **[PT INDONESIA THAI SUMMIT AUTO]**
 - 🌱 I’m currently learning **[Go, Rust]**
