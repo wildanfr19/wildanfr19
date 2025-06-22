@@ -2,7 +2,7 @@
 <h3 align="left">A passionate [Frontend / Backend / Fullstack] Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **[PT INDONESIA THAI SUMMIT AUTO]**
-- 🌱 I’m currently learning **[Go, Rust]**
+- 🌱 I’m currently learning **[Go, Python]**
 - 💬 Ask me about **[PHP, AngularJS, REST API, React JS, REACT NATIVE, jQuery, Ajax]**
 - 📫 How to reach me: **[fathurrohmanwildan136@gmail.com]**
 - ⚡ Fun fact: **[I love tempe]**
